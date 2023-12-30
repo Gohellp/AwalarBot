@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AwalarBot": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "awalarToken": "tokenHere"
+      }
+    }
+  }
+}
